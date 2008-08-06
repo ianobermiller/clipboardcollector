@@ -1,0 +1,1 @@
+#summary Lightweight program for collecting copied text.
